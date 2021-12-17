@@ -31,7 +31,7 @@
 		"useful"
 	],
 	"dependencies": {
-		"electron-is-dev": "^1.1.0",
+		"@electron/remote": "^2.0.1",
 		"new-github-issue-url": "^0.2.1"
 	},
 	"devDependencies": {

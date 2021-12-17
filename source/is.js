@@ -1,5 +1,5 @@
 'use strict';
-const isDev = require('electron-is-dev');
+const isDev = require('./is-dev');
 const isUsingAsar = require('./is-using-asar');
 
 module.exports = {
