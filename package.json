@@ -1,14 +1,13 @@
 {
-	"name": "electron-util",
+	"name": "bonnie",
 	"version": "0.17.2",
-	"description": "Useful utilities for Electron apps and modules",
+	"description": "Useful utilities for Electron apps and modules - forked from electron-util",
 	"license": "MIT",
-	"repository": "sindresorhus/electron-util",
-	"funding": "https://github.com/sponsors/sindresorhus",
+	"repository": "has-n/electron-util",
 	"author": {
-		"name": "Sindre Sorhus",
-		"email": "sindresorhus@gmail.com",
-		"url": "https://sindresorhus.com"
+		"name": "Hasan Khan",
+		"email": "hsnk42@gmail.com",
+		"url": "https://hsnk.in"
 	},
 	"scripts": {
 		"start": "electron example.js",
